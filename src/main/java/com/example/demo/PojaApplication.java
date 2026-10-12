@@ -8,6 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PojaApplication {
 
   public static void main(String[] args) {
-    SpringApplication.run(PojaApplication.class, args);
+    SpringApplication.run(PojaApplication.class, args); //comment
   }
 }
